@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaepatrumbibli06maiauoft/novaepatrumbibli06maiauoft_0842.png"; bbox 0 0 3132 4452; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1162 3315 1188 3326">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1162 3315 1188 3326">
+     <span class='ocr_line' id='line_1_1' title="bbox 1162 3315 1188 3326; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1162 3315 1188 3326; x_wconf 49' lang='lat' dir='ltr'>(a</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2480 0 3132 4334">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2480 0 3132 4334">
+     <span class='ocr_line' id='line_1_2' title="bbox 2480 0 3132 4334"><span class='ocrx_word' id='word_1_2' title='bbox 2480 0 3132 4334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2434 3729 2447 3762">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2434 3729 2447 3762">
+     <span class='ocr_line' id='line_1_3' title="bbox 2434 3729 2447 3762; baseline -33 0"><span class='ocrx_word' id='word_1_3' title='bbox 2435 3729 2447 3747; x_wconf 53' lang='lat' dir='ltr'>0.ae</span> <span class='ocrx_word' id='word_1_4' title='bbox 2434 3759 2436 3762; x_wconf 70' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
